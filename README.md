@@ -14,7 +14,7 @@ Louvain-Enhanced is a Python package for community detection in large networks u
 
 ## Installation
 
-You can install Louvain-Enhanced using pip:
+You can install [Louvain-Enhanced](https://pypi.org/project/louvain-enhanced/) using pip:
 
 ```bash
 pip install louvain-enhanced
